@@ -11,7 +11,7 @@ It is available for download at [http://hdl.handle.net/2262/81836](http://hdl.ha
 
 Please cite the following when using this repo and dataset:
 
-> J. Byrne, J. Connelly, J. Su, V. Krylov, M. Bourke, D. Moloney & R. Dahyot, Trinity College Dublin Drone Survey Dataset, 2017, School of Computer Science & Statistics, Trinity College Dublin, 2017. HANDLE:2262/81836
+> J. Byrne, J. Connelly, J. Su, V. Krylov, M. Bourke, D. Moloney & R. Dahyot, Trinity College Dublin Drone Survey Dataset, 2017, School of Computer Science & Statistics, Trinity College Dublin, 2017. [HANDLE:2262/81836](http://hdl.handle.net/2262/81836) 
 
 ## Visualisation with WebGL
 
